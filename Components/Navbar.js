@@ -1,5 +1,5 @@
-import React, { useState } from 'react'
-import Logo from '../Assets/React_Native.png'
+import React, { useState } from 'react';
+import Logo from '../Assets/React_Native.png';
 import ReorderIcon from '@mui/icons-material/Reorder';
 import { Link } from 'react-router-dom';
 import '../Styles/Navbar.css';

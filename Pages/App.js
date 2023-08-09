@@ -1,10 +1,10 @@
-import './App.css';
-import NavBar from './Components/Navbar';
-import Footer from './Components/Footer';
-import Home from './Pages/Home';
-import Project from './Pages/Projects';
-import About from './Pages/About';
-import Contact from './Pages/Contact';
+import '../Styles/App.css';
+import NavBar from '../Components/Navbar.js';
+import Footer from '../Components/Footer.js';
+import Home from './Home.js';
+import Project from './Projects.js';
+import About from './About.js';
+import Contact from './Contact.js';
 import {BrowserRouter as Router,
         Route,
         Routes} from 'react-router-dom';

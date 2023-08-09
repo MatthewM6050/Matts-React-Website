@@ -1,5 +1,5 @@
-import React from 'react'
-import '../Styles/Footer.css'
+import React from 'react';
+import '../Styles/Footer.css';
 import LinkedInIcon from '@mui/icons-material/LinkedIn';
 import GitHubIcon from '@mui/icons-material/GitHub';
 
