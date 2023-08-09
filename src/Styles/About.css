@@ -1,0 +1,38 @@
+.about {
+    height: 85vh;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+.aboutImage {
+    width: 100%;
+    height: 45%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url("../Assets/NYC_Skyline.png");
+}
+
+.aboutText {
+    display: flex;
+    flex-direction: column;
+    height: 55%;
+    align-items: center;
+    margin-top: 50px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.aboutText p {
+    width: 1200px;
+}
+
+.about .aboutText h1 {
+    font-weight: 400;
+    font-size: 70px;
+    color: black;
+    height: 30px;
+    display: flex;
+    justify-content: center;
+    transform: translateY(-40px);
+}
